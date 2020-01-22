@@ -40,10 +40,6 @@ namespace DevRamperChallenge
 					else
 						is_multiple_comment = false;
 
-					/* lalala */ Console.Write("lala"); /*
-														   */
-
-
 					while(!is_multiple_comment){
 						int index = line.IndexOf("*/");
 						try{

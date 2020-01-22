@@ -1,0 +1,11 @@
+/home/jio/workspace/DevRamperChallenge/obj/Debug/netcoreapp2.1/DevRamperChallenge.csprojAssemblyReference.cache
+/home/jio/workspace/DevRamperChallenge/obj/Debug/netcoreapp2.1/DevRamperChallenge.csproj.CoreCompileInputs.cache
+/home/jio/workspace/DevRamperChallenge/obj/Debug/netcoreapp2.1/DevRamperChallenge.AssemblyInfoInputs.cache
+/home/jio/workspace/DevRamperChallenge/obj/Debug/netcoreapp2.1/DevRamperChallenge.AssemblyInfo.cs
+/home/jio/workspace/DevRamperChallenge/bin/Debug/netcoreapp2.1/DevRamperChallenge.deps.json
+/home/jio/workspace/DevRamperChallenge/bin/Debug/netcoreapp2.1/DevRamperChallenge.runtimeconfig.json
+/home/jio/workspace/DevRamperChallenge/bin/Debug/netcoreapp2.1/DevRamperChallenge.runtimeconfig.dev.json
+/home/jio/workspace/DevRamperChallenge/bin/Debug/netcoreapp2.1/DevRamperChallenge.dll
+/home/jio/workspace/DevRamperChallenge/bin/Debug/netcoreapp2.1/DevRamperChallenge.pdb
+/home/jio/workspace/DevRamperChallenge/obj/Debug/netcoreapp2.1/DevRamperChallenge.dll
+/home/jio/workspace/DevRamperChallenge/obj/Debug/netcoreapp2.1/DevRamperChallenge.pdb

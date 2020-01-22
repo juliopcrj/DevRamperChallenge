@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/jio/workspace/DevRamperChallenge/DevRamperChallenge.csproj": {}
+  },
+  "projects": {
+    "/home/jio/workspace/DevRamperChallenge/DevRamperChallenge.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/jio/workspace/DevRamperChallenge/DevRamperChallenge.csproj",
+        "projectName": "DevRamperChallenge",
+        "projectPath": "/home/jio/workspace/DevRamperChallenge/DevRamperChallenge.csproj",
+        "packagesPath": "/home/jio/.nuget/packages/",
+        "outputPath": "/home/jio/workspace/DevRamperChallenge/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/jio/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

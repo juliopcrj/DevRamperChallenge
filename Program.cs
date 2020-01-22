@@ -18,29 +18,30 @@ namespace DevRamperChallenge
 			bool is_multiple_comment = false;
 
 			while((line = f.ReadLine()) != null){
+				Console.WriteLine(line.Length);
 				// se a linha for vazia, pula
 				if(line.Length == 0)
 					is_line_of_code = false;
 
-				else
 				// se a linha começar com comentário
 				// de uma linha, pula
-				if(line.Trim().StartsWith("//"))
+				else if(line.Trim().StartsWith("//")){
 					is_line_of_code = false;
-
-				else
+				}
 				/*
 				 * Caso a linha comece com comentário
 				 * de mais de linha, analisa se tem  
-				 * código fora de comentário nessas */ Console.WriteLine("teste"); /*
+				 * código fora de comentário nessas  
 				 * linhas
 				 */
-				if(line.Trim().StartsWith("/*") || is_multiple_comment ){
+				else if(line.Trim().StartsWith("/*") || is_multiple_comment ){
 					if(!line.Contains("*/"))
 						is_multiple_comment = true;
 					else
 						is_multiple_comment = false;
-	
+
+					/* lalala */ Console.Write("lala"); /*
+														   */
 
 
 					while(!is_multiple_comment){
